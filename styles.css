@@ -3,7 +3,7 @@ body {
   height: 100vh;
   margin: 0;
 
-  background-color: #25256f;
+  background-color: black;
   color: #f5f6f7;
   font-family: Tahoma, sans-serif;
   font-size: 16px;
@@ -28,8 +28,9 @@ h1, p {
  
   background-color: #1b1b32;
   
-  padding-left: 30%;
-  padding-right:30%;
+  margin-left: 30%;
+ margin-right:30%;
+ padding-left:1%;
 
 }
 
